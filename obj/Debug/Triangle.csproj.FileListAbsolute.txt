@@ -1,0 +1,8 @@
+C:\Users\Администратор\Desktop\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Администратор\Desktop\Triangle\bin\Debug\Triangle.exe
+C:\Users\Администратор\Desktop\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Администратор\Desktop\Triangle\obj\Debug\Triangle.Triangle.resources
+C:\Users\Администратор\Desktop\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Triangle\obj\Debug\Triangle.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Triangle\obj\Debug\Triangle.exe
+C:\Users\Администратор\Desktop\Triangle\obj\Debug\Triangle.pdb
